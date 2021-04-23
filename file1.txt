@@ -1,3 +1,0 @@
-Today we are practicing Git
-
-We try to change and save again
